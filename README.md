@@ -1,3 +1,3 @@
-# DCSNet🌟
+# DrainNet🌟
 
-DCSNet is a CNN-based network for drainage channel segmantation on man-made slopes.
+DrainNet is a CNN-based network for drainage channel segmantation on engineered slopes.
