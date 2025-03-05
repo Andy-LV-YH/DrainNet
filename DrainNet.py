@@ -60,7 +60,7 @@ class DilatedConv(nn.Module):
         x = self.conv_2(x)
         return x
 
-class DCSNet(nn.Module):
+class DrainNet(nn.Module):
     def __init__(self, inchannel, out_channels, channels=[16, 32, 64, 128, 256]):
         super().__init__()
         self.head = nn.Sequential(
